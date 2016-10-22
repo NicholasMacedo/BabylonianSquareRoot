@@ -1,6 +1,5 @@
 *> Babylonian Square Root Solver
 *> By: Nicholas Macedo
-*> Origional Code: Michael Wirth
 *> March 25th 2016
 
 identification division.
